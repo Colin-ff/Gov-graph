@@ -1,0 +1,9 @@
+# Keep the build context small and avoid copying host-specific artefacts.
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.coverage
+htmlcov/

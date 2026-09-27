@@ -1,0 +1,541 @@
+{
+  "count": 40,
+  "ground_truth_duplicates": [
+    [
+      "Research Data Governance Committee",
+      "Research Information Governance Committee"
+    ]
+  ],
+  "tors": [
+    {
+      "group_name": "Academic Board",
+      "group_type": "Board",
+      "purpose_distinguishing": "govern academic quality, standards, curriculum and academic policy",
+      "reporting_line": "University Council",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Board. Purpose: govern academic quality, standards, curriculum and academic policy Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: University Council."
+    },
+    {
+      "group_name": "Accessibility Working Group",
+      "group_type": "Working Group",
+      "purpose_distinguishing": "review accessibility barriers across physical, digital and learning environments",
+      "reporting_line": "Equity",
+      "scope": [
+        "monitor equity, diversity, inclusion and cultural safety priorities",
+        "review representation, access and participation data",
+        "identify initiatives and measures of progress across the institution",
+        "provide advice on inclusion-related policy, practice and reporting"
+      ],
+      "embedding_text": "Working Group. Purpose: review accessibility barriers across physical, digital and learning environments Responsibilities: monitor equity, diversity, inclusion and cultural safety priorities; review representation, access and participation data; identify initiatives and measures of progress across the institution; provide advice on inclusion-related policy, practice and reporting. Reports to: Equity."
+    },
+    {
+      "group_name": "AI Governance Taskforce",
+      "group_type": "Taskforce",
+      "purpose_distinguishing": "shape institutional governance of ai adoption, use, risk and opportunity",
+      "reporting_line": "Digital Transformation Steering Committee",
+      "scope": [
+        "review technology, data and information governance implications",
+        "monitor risks, priorities and opportunities associated with digital change",
+        "provide advice on platform, data quality and cyber security matters",
+        "support governance and oversight of emerging digital or AI-related activity",
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations"
+      ],
+      "embedding_text": "Taskforce. Purpose: shape institutional governance of ai adoption, use, risk and opportunity Responsibilities: review technology, data and information governance implications; monitor risks, priorities and opportunities associated with digital change; provide advice on platform, data quality and cyber security matters; support governance and oversight of emerging digital or AI-related activity; review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations. Reports to: Digital Transformation Steering Committee."
+    },
+    {
+      "group_name": "Assessment Integrity Group",
+      "group_type": "Group",
+      "purpose_distinguishing": "monitor assessment integrity, risk mitigation and changes to practice",
+      "reporting_line": "Education Committee",
+      "scope": [
+        "monitor the quality, coherence and approval of education-related proposals and changes",
+        "review relevant student progress, learning and assessment information",
+        "identify issues requiring escalation or cross-institutional coordination",
+        "support continuous improvement of curriculum, student experience and outcomes"
+      ],
+      "embedding_text": "Group. Purpose: monitor assessment integrity, risk mitigation and changes to practice Responsibilities: monitor the quality, coherence and approval of education-related proposals and changes; review relevant student progress, learning and assessment information; identify issues requiring escalation or cross-institutional coordination; support continuous improvement of curriculum, student experience and outcomes. Reports to: Education Committee."
+    },
+    {
+      "group_name": "Audit and Risk Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "provide assurance on risk, controls, audit findings, compliance and integrity matters",
+      "reporting_line": "University Council",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Committee. Purpose: provide assurance on risk, controls, audit findings, compliance and integrity matters Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: University Council."
+    },
+    {
+      "group_name": "Campus Planning Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "coordinate campus space planning, facilities priorities and long-term precinct decisions",
+      "reporting_line": "University Executive",
+      "scope": [
+        "review space, facilities and planning matters within the group's remit",
+        "identify constraints, dependencies and priorities affecting campus operations",
+        "support decision-making on long-term infrastructure considerations",
+        "monitor implementation issues and proposed improvements"
+      ],
+      "embedding_text": "Committee. Purpose: coordinate campus space planning, facilities priorities and long-term precinct decisions Responsibilities: review space, facilities and planning matters within the group's remit; identify constraints, dependencies and priorities affecting campus operations; support decision-making on long-term infrastructure considerations; monitor implementation issues and proposed improvements. Reports to: University Executive."
+    },
+    {
+      "group_name": "Community Engagement Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "coordinate community partnerships, civic engagement and social impact initiatives",
+      "reporting_line": "University Executive",
+      "scope": [
+        "monitor external engagement, partnerships and community impact",
+        "identify opportunities to strengthen collaboration across the institution and beyond",
+        "support alignment between institutional priorities and partnership activity",
+        "review issues and proposals requiring coordination across stakeholders"
+      ],
+      "embedding_text": "Committee. Purpose: coordinate community partnerships, civic engagement and social impact initiatives Responsibilities: monitor external engagement, partnerships and community impact; identify opportunities to strengthen collaboration across the institution and beyond; support alignment between institutional priorities and partnership activity; review issues and proposals requiring coordination across stakeholders. Reports to: University Executive."
+    },
+    {
+      "group_name": "Cultural Inclusion Working Group",
+      "group_type": "Working Group",
+      "purpose_distinguishing": "advise on inclusive practice, belonging and culturally safe environments",
+      "reporting_line": "Equity",
+      "scope": [
+        "monitor equity, diversity, inclusion and cultural safety priorities",
+        "review representation, access and participation data",
+        "identify initiatives and measures of progress across the institution",
+        "provide advice on inclusion-related policy, practice and reporting"
+      ],
+      "embedding_text": "Working Group. Purpose: advise on inclusive practice, belonging and culturally safe environments Responsibilities: monitor equity, diversity, inclusion and cultural safety priorities; review representation, access and participation data; identify initiatives and measures of progress across the institution; provide advice on inclusion-related policy, practice and reporting. Reports to: Equity."
+    },
+    {
+      "group_name": "Cyber Security Oversight Group",
+      "group_type": "Oversight Group",
+      "purpose_distinguishing": "monitor security posture, incidents, awareness and control improvements",
+      "reporting_line": "Digital Transformation Steering Committee",
+      "scope": [
+        "review technology, data and information governance implications",
+        "monitor risks, priorities and opportunities associated with digital change",
+        "provide advice on platform, data quality and cyber security matters",
+        "support governance and oversight of emerging digital or AI-related activity"
+      ],
+      "embedding_text": "Oversight Group. Purpose: monitor security posture, incidents, awareness and control improvements Responsibilities: review technology, data and information governance implications; monitor risks, priorities and opportunities associated with digital change; provide advice on platform, data quality and cyber security matters; support governance and oversight of emerging digital or AI-related activity. Reports to: Digital Transformation Steering Committee."
+    },
+    {
+      "group_name": "Digital Transformation Steering Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "coordinate enterprise digital priorities, platforms, data and technology investment",
+      "reporting_line": "University Executive",
+      "scope": [
+        "review technology, data and information governance implications",
+        "monitor risks, priorities and opportunities associated with digital change",
+        "provide advice on platform, data quality and cyber security matters",
+        "support governance and oversight of emerging digital or AI-related activity"
+      ],
+      "embedding_text": "Committee. Purpose: coordinate enterprise digital priorities, platforms, data and technology investment Responsibilities: review technology, data and information governance implications; monitor risks, priorities and opportunities associated with digital change; provide advice on platform, data quality and cyber security matters; support governance and oversight of emerging digital or AI-related activity. Reports to: University Executive."
+    },
+    {
+      "group_name": "Education Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "review programs, learning quality, student progression and curriculum change",
+      "reporting_line": "Academic Board",
+      "scope": [
+        "monitor the quality, coherence and approval of education-related proposals and changes",
+        "review relevant student progress, learning and assessment information",
+        "identify issues requiring escalation or cross-institutional coordination",
+        "support continuous improvement of curriculum, student experience and outcomes"
+      ],
+      "embedding_text": "Committee. Purpose: review programs, learning quality, student progression and curriculum change Responsibilities: monitor the quality, coherence and approval of education-related proposals and changes; review relevant student progress, learning and assessment information; identify issues requiring escalation or cross-institutional coordination; support continuous improvement of curriculum, student experience and outcomes. Reports to: Academic Board."
+    },
+    {
+      "group_name": "Equity Diversity and Inclusion Board",
+      "group_type": "Board",
+      "purpose_distinguishing": "guide strategy and accountability on equity, diversity, inclusion and cultural safety",
+      "reporting_line": "University Executive",
+      "scope": [
+        "monitor equity, diversity, inclusion and cultural safety priorities",
+        "review representation, access and participation data",
+        "identify initiatives and measures of progress across the institution",
+        "provide advice on inclusion-related policy, practice and reporting"
+      ],
+      "embedding_text": "Board. Purpose: guide strategy and accountability on equity, diversity, inclusion and cultural safety Responsibilities: monitor equity, diversity, inclusion and cultural safety priorities; review representation, access and participation data; identify initiatives and measures of progress across the institution; provide advice on inclusion-related policy, practice and reporting. Reports to: University Executive."
+    },
+    {
+      "group_name": "Faculty EDI Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "implement local edi initiatives, reporting and participation targets",
+      "reporting_line": "Equity",
+      "scope": [
+        "monitor equity, diversity, inclusion and cultural safety priorities",
+        "review representation, access and participation data",
+        "identify initiatives and measures of progress across the institution",
+        "provide advice on inclusion-related policy, practice and reporting"
+      ],
+      "embedding_text": "Committee. Purpose: implement local edi initiatives, reporting and participation targets Responsibilities: monitor equity, diversity, inclusion and cultural safety priorities; review representation, access and participation data; identify initiatives and measures of progress across the institution; provide advice on inclusion-related policy, practice and reporting. Reports to: Equity."
+    },
+    {
+      "group_name": "Faculty Education Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "coordinate faculty-level program approval, delivery quality and student progression matters",
+      "reporting_line": "Education Committee",
+      "scope": [
+        "monitor the quality, coherence and approval of education-related proposals and changes",
+        "review relevant student progress, learning and assessment information",
+        "identify issues requiring escalation or cross-institutional coordination",
+        "support continuous improvement of curriculum, student experience and outcomes"
+      ],
+      "embedding_text": "Committee. Purpose: coordinate faculty-level program approval, delivery quality and student progression matters Responsibilities: monitor the quality, coherence and approval of education-related proposals and changes; review relevant student progress, learning and assessment information; identify issues requiring escalation or cross-institutional coordination; support continuous improvement of curriculum, student experience and outcomes. Reports to: Education Committee."
+    },
+    {
+      "group_name": "Faculty Operations Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "coordinate faculty operational matters, resources and local administrative decisions",
+      "reporting_line": "University Executive",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Committee. Purpose: coordinate faculty operational matters, resources and local administrative decisions Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: University Executive."
+    },
+    {
+      "group_name": "Faculty Research Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "coordinate faculty-level research priorities, hdr matters and research capability",
+      "reporting_line": "Research Committee",
+      "scope": [
+        "monitor research strategy, research performance and research capability",
+        "consider issues of research integrity, compliance and stewardship",
+        "review matters affecting HDR candidates, supervisors and research culture",
+        "identify risks, opportunities and emerging priorities in research governance"
+      ],
+      "embedding_text": "Committee. Purpose: coordinate faculty-level research priorities, hdr matters and research capability Responsibilities: monitor research strategy, research performance and research capability; consider issues of research integrity, compliance and stewardship; review matters affecting HDR candidates, supervisors and research culture; identify risks, opportunities and emerging priorities in research governance. Reports to: Research Committee."
+    },
+    {
+      "group_name": "Finance Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "review financial performance, budgets, major investments and capital plans",
+      "reporting_line": "University Council",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Committee. Purpose: review financial performance, budgets, major investments and capital plans Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: University Council."
+    },
+    {
+      "group_name": "Future of Work Taskforce",
+      "group_type": "Taskforce",
+      "purpose_distinguishing": "explore workforce change, future skills, work-integrated learning and implications for curriculum and partnerships",
+      "reporting_line": "Education Committee; Industry Partnerships Committee",
+      "scope": [
+        "monitor workforce, culture, wellbeing and capability matters",
+        "review information relating to staffing, recruitment, participation and progression",
+        "advise on initiatives intended to improve organisational culture and effectiveness",
+        "support reporting and accountability on people-related priorities"
+      ],
+      "embedding_text": "Taskforce. Purpose: explore workforce change, future skills, work-integrated learning and implications for curriculum and partnerships Responsibilities: monitor workforce, culture, wellbeing and capability matters; review information relating to staffing, recruitment, participation and progression; advise on initiatives intended to improve organisational culture and effectiveness; support reporting and accountability on people-related priorities. Reports to: Education Committee; Industry Partnerships Committee."
+    },
+    {
+      "group_name": "Gender Equity Working Group",
+      "group_type": "Working Group",
+      "purpose_distinguishing": "drive actions on gender equity, representation and participation",
+      "reporting_line": "Equity",
+      "scope": [
+        "monitor equity, diversity, inclusion and cultural safety priorities",
+        "review representation, access and participation data",
+        "identify initiatives and measures of progress across the institution",
+        "provide advice on inclusion-related policy, practice and reporting"
+      ],
+      "embedding_text": "Working Group. Purpose: drive actions on gender equity, representation and participation Responsibilities: monitor equity, diversity, inclusion and cultural safety priorities; review representation, access and participation data; identify initiatives and measures of progress across the institution; provide advice on inclusion-related policy, practice and reporting. Reports to: Equity."
+    },
+    {
+      "group_name": "Graduate Outcomes Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "monitor graduate employability, outcomes data and continuous improvement actions",
+      "reporting_line": "Student Experience Committee",
+      "scope": [
+        "monitor the quality, coherence and approval of education-related proposals and changes",
+        "review relevant student progress, learning and assessment information",
+        "identify issues requiring escalation or cross-institutional coordination",
+        "support continuous improvement of curriculum, student experience and outcomes"
+      ],
+      "embedding_text": "Committee. Purpose: monitor graduate employability, outcomes data and continuous improvement actions Responsibilities: monitor the quality, coherence and approval of education-related proposals and changes; review relevant student progress, learning and assessment information; identify issues requiring escalation or cross-institutional coordination; support continuous improvement of curriculum, student experience and outcomes. Reports to: Student Experience Committee."
+    },
+    {
+      "group_name": "HDR Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "oversee higher degree research student progress, candidature and supervision quality",
+      "reporting_line": "Research Committee",
+      "scope": [
+        "monitor research strategy, research performance and research capability",
+        "consider issues of research integrity, compliance and stewardship",
+        "review matters affecting HDR candidates, supervisors and research culture",
+        "identify risks, opportunities and emerging priorities in research governance"
+      ],
+      "embedding_text": "Committee. Purpose: oversee higher degree research student progress, candidature and supervision quality Responsibilities: monitor research strategy, research performance and research capability; consider issues of research integrity, compliance and stewardship; review matters affecting HDR candidates, supervisors and research culture; identify risks, opportunities and emerging priorities in research governance. Reports to: Research Committee."
+    },
+    {
+      "group_name": "Indigenous Advisory Group",
+      "group_type": "Advisory Group",
+      "purpose_distinguishing": "advise on indigenous engagement, strategy and culturally safe institutional practice",
+      "reporting_line": "University Executive",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Advisory Group. Purpose: advise on indigenous engagement, strategy and culturally safe institutional practice Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: University Executive."
+    },
+    {
+      "group_name": "Innovation Forum",
+      "group_type": "Forum",
+      "purpose_distinguishing": "a loosely defined discussion forum for innovation topics",
+      "reporting_line": "",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Forum. Purpose: a loosely defined discussion forum for innovation topics Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: ."
+    },
+    {
+      "group_name": "International Strategy Advisory Group",
+      "group_type": "Advisory Group",
+      "purpose_distinguishing": "advise on transnational education, partnerships and international strategy",
+      "reporting_line": "University Executive",
+      "scope": [
+        "monitor external engagement, partnerships and community impact",
+        "identify opportunities to strengthen collaboration across the institution and beyond",
+        "support alignment between institutional priorities and partnership activity",
+        "review issues and proposals requiring coordination across stakeholders"
+      ],
+      "embedding_text": "Advisory Group. Purpose: advise on transnational education, partnerships and international strategy Responsibilities: monitor external engagement, partnerships and community impact; identify opportunities to strengthen collaboration across the institution and beyond; support alignment between institutional priorities and partnership activity; review issues and proposals requiring coordination across stakeholders. Reports to: University Executive."
+    },
+    {
+      "group_name": "Learning Analytics Working Group",
+      "group_type": "Working Group",
+      "purpose_distinguishing": "improve learning analytics use, student support insights and reporting models",
+      "reporting_line": "Education Committee",
+      "scope": [
+        "monitor the quality, coherence and approval of education-related proposals and changes",
+        "review relevant student progress, learning and assessment information",
+        "identify issues requiring escalation or cross-institutional coordination",
+        "support continuous improvement of curriculum, student experience and outcomes",
+        "review technology, data and information governance implications",
+        "monitor risks, priorities and opportunities associated with digital change"
+      ],
+      "embedding_text": "Working Group. Purpose: improve learning analytics use, student support insights and reporting models Responsibilities: monitor the quality, coherence and approval of education-related proposals and changes; review relevant student progress, learning and assessment information; identify issues requiring escalation or cross-institutional coordination; support continuous improvement of curriculum, student experience and outcomes; review technology, data and information governance implications; monitor risks, priorities and opportunities associated with digital change. Reports to: Education Committee."
+    },
+    {
+      "group_name": "Library Advisory Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "provide strategic advice on library services, collections and scholarly support",
+      "reporting_line": "University Executive",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Committee. Purpose: provide strategic advice on library services, collections and scholarly support Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: University Executive."
+    },
+    {
+      "group_name": "Microcredential Steering Group",
+      "group_type": "Steering Group",
+      "purpose_distinguishing": "coordinate microcredential strategy, delivery and governance",
+      "reporting_line": "",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Steering Group. Purpose: coordinate microcredential strategy, delivery and governance Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: ."
+    },
+    {
+      "group_name": "New Knowledge Translation Group",
+      "group_type": "Group",
+      "purpose_distinguishing": "coordinate translation of research into policy, practice and community impact",
+      "reporting_line": "Research Committee; Community Engagement Committee",
+      "scope": [
+        "monitor research strategy, research performance and research capability",
+        "consider issues of research integrity, compliance and stewardship",
+        "review matters affecting HDR candidates, supervisors and research culture",
+        "identify risks, opportunities and emerging priorities in research governance"
+      ],
+      "embedding_text": "Group. Purpose: coordinate translation of research into policy, practice and community impact Responsibilities: monitor research strategy, research performance and research capability; consider issues of research integrity, compliance and stewardship; review matters affecting HDR candidates, supervisors and research culture; identify risks, opportunities and emerging priorities in research governance. Reports to: Research Committee; Community Engagement Committee."
+    },
+    {
+      "group_name": "People and Culture Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "oversee workforce strategy, remuneration, wellbeing and culture-related matters",
+      "reporting_line": "University Council",
+      "scope": [
+        "monitor workforce, culture, wellbeing and capability matters",
+        "review information relating to staffing, recruitment, participation and progression",
+        "advise on initiatives intended to improve organisational culture and effectiveness",
+        "support reporting and accountability on people-related priorities"
+      ],
+      "embedding_text": "Committee. Purpose: oversee workforce strategy, remuneration, wellbeing and culture-related matters Responsibilities: monitor workforce, culture, wellbeing and capability matters; review information relating to staffing, recruitment, participation and progression; advise on initiatives intended to improve organisational culture and effectiveness; support reporting and accountability on people-related priorities. Reports to: University Council."
+    },
+    {
+      "group_name": "Policy Harmonisation Working Group",
+      "group_type": "Working Group",
+      "purpose_distinguishing": "review and align overlapping institutional policies and procedures",
+      "reporting_line": "University Executive",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Working Group. Purpose: review and align overlapping institutional policies and procedures Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: University Executive."
+    },
+    {
+      "group_name": "Research Centres Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "oversee establishment, review and performance of research centres and institutes",
+      "reporting_line": "Research Committee",
+      "scope": [
+        "monitor research strategy, research performance and research capability",
+        "consider issues of research integrity, compliance and stewardship",
+        "review matters affecting HDR candidates, supervisors and research culture",
+        "identify risks, opportunities and emerging priorities in research governance"
+      ],
+      "embedding_text": "Committee. Purpose: oversee establishment, review and performance of research centres and institutes Responsibilities: monitor research strategy, research performance and research capability; consider issues of research integrity, compliance and stewardship; review matters affecting HDR candidates, supervisors and research culture; identify risks, opportunities and emerging priorities in research governance. Reports to: Research Committee."
+    },
+    {
+      "group_name": "Research Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "oversee research strategy, integrity, performance and capability building",
+      "reporting_line": "Academic Board",
+      "scope": [
+        "monitor research strategy, research performance and research capability",
+        "consider issues of research integrity, compliance and stewardship",
+        "review matters affecting HDR candidates, supervisors and research culture",
+        "identify risks, opportunities and emerging priorities in research governance"
+      ],
+      "embedding_text": "Committee. Purpose: oversee research strategy, integrity, performance and capability building Responsibilities: monitor research strategy, research performance and research capability; consider issues of research integrity, compliance and stewardship; review matters affecting HDR candidates, supervisors and research culture; identify risks, opportunities and emerging priorities in research governance. Reports to: Academic Board."
+    },
+    {
+      "group_name": "Research Data Governance Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "oversee research data management, access, retention and governance",
+      "reporting_line": "Research Committee",
+      "scope": [
+        "monitor research strategy, research performance and research capability",
+        "consider issues of research integrity, compliance and stewardship",
+        "review matters affecting HDR candidates, supervisors and research culture",
+        "identify risks, opportunities and emerging priorities in research governance",
+        "review technology, data and information governance implications",
+        "monitor risks, priorities and opportunities associated with digital change"
+      ],
+      "embedding_text": "Committee. Purpose: oversee research data management, access, retention and governance Responsibilities: monitor research strategy, research performance and research capability; consider issues of research integrity, compliance and stewardship; review matters affecting HDR candidates, supervisors and research culture; identify risks, opportunities and emerging priorities in research governance; review technology, data and information governance implications; monitor risks, priorities and opportunities associated with digital change. Reports to: Research Committee."
+    },
+    {
+      "group_name": "Research Information Governance Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "oversee research information systems, information stewardship and governance",
+      "reporting_line": "Research Committee",
+      "scope": [
+        "monitor research strategy, research performance and research capability",
+        "consider issues of research integrity, compliance and stewardship",
+        "review matters affecting HDR candidates, supervisors and research culture",
+        "identify risks, opportunities and emerging priorities in research governance",
+        "review technology, data and information governance implications",
+        "monitor risks, priorities and opportunities associated with digital change"
+      ],
+      "embedding_text": "Committee. Purpose: oversee research information systems, information stewardship and governance Responsibilities: monitor research strategy, research performance and research capability; consider issues of research integrity, compliance and stewardship; review matters affecting HDR candidates, supervisors and research culture; identify risks, opportunities and emerging priorities in research governance; review technology, data and information governance implications; monitor risks, priorities and opportunities associated with digital change. Reports to: Research Committee."
+    },
+    {
+      "group_name": "Research Integrity Panel",
+      "group_type": "Panel",
+      "purpose_distinguishing": "consider integrity issues, training gaps and policy responses related to research conduct",
+      "reporting_line": "Research Committee",
+      "scope": [
+        "monitor research strategy, research performance and research capability",
+        "consider issues of research integrity, compliance and stewardship",
+        "review matters affecting HDR candidates, supervisors and research culture",
+        "identify risks, opportunities and emerging priorities in research governance"
+      ],
+      "embedding_text": "Panel. Purpose: consider integrity issues, training gaps and policy responses related to research conduct Responsibilities: monitor research strategy, research performance and research capability; consider issues of research integrity, compliance and stewardship; review matters affecting HDR candidates, supervisors and research culture; identify risks, opportunities and emerging priorities in research governance. Reports to: Research Committee."
+    },
+    {
+      "group_name": "Student Experience Committee",
+      "group_type": "Committee",
+      "purpose_distinguishing": "monitor student engagement, experience, retention and support initiatives",
+      "reporting_line": "Academic Board",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Committee. Purpose: monitor student engagement, experience, retention and support initiatives Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: Academic Board."
+    },
+    {
+      "group_name": "Student Success Working Group",
+      "group_type": "Working Group",
+      "purpose_distinguishing": "identify interventions to improve retention, progression and student success",
+      "reporting_line": "Student Experience Committee",
+      "scope": [
+        "monitor the quality, coherence and approval of education-related proposals and changes",
+        "review relevant student progress, learning and assessment information",
+        "identify issues requiring escalation or cross-institutional coordination",
+        "support continuous improvement of curriculum, student experience and outcomes"
+      ],
+      "embedding_text": "Working Group. Purpose: identify interventions to improve retention, progression and student success Responsibilities: monitor the quality, coherence and approval of education-related proposals and changes; review relevant student progress, learning and assessment information; identify issues requiring escalation or cross-institutional coordination; support continuous improvement of curriculum, student experience and outcomes. Reports to: Student Experience Committee."
+    },
+    {
+      "group_name": "Sustainability Advisory Group",
+      "group_type": "Advisory Group",
+      "purpose_distinguishing": "advise on sustainability targets, reporting, esg and campus initiatives",
+      "reporting_line": "University Executive",
+      "scope": [
+        "review technology, data and information governance implications",
+        "monitor risks, priorities and opportunities associated with digital change",
+        "provide advice on platform, data quality and cyber security matters",
+        "support governance and oversight of emerging digital or AI-related activity",
+        "monitor sustainability-related reporting, targets and progress",
+        "advise on environmental, social and governance implications"
+      ],
+      "embedding_text": "Advisory Group. Purpose: advise on sustainability targets, reporting, esg and campus initiatives Responsibilities: review technology, data and information governance implications; monitor risks, priorities and opportunities associated with digital change; provide advice on platform, data quality and cyber security matters; support governance and oversight of emerging digital or AI-related activity; monitor sustainability-related reporting, targets and progress; advise on environmental, social and governance implications. Reports to: University Executive."
+    },
+    {
+      "group_name": "University Council",
+      "group_type": "Council",
+      "purpose_distinguishing": "oversee institutional strategy, risk, finances, and long-term sustainability",
+      "reporting_line": "",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Council. Purpose: oversee institutional strategy, risk, finances, and long-term sustainability Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: ."
+    },
+    {
+      "group_name": "University Executive",
+      "group_type": "Group",
+      "purpose_distinguishing": "lead operational execution of strategy and coordinate institution-wide priorities",
+      "reporting_line": "Vice-Chancellor",
+      "scope": [
+        "review key risks, controls, decisions and recommendations",
+        "ensure alignment with relevant governance expectations and reporting obligations",
+        "maintain oversight of matters referred to the group within its remit",
+        "promote transparency, accountability and follow-through on agreed actions"
+      ],
+      "embedding_text": "Group. Purpose: lead operational execution of strategy and coordinate institution-wide priorities Responsibilities: review key risks, controls, decisions and recommendations; ensure alignment with relevant governance expectations and reporting obligations; maintain oversight of matters referred to the group within its remit; promote transparency, accountability and follow-through on agreed actions. Reports to: Vice-Chancellor."
+    }
+  ]
+}

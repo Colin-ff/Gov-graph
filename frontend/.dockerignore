@@ -1,0 +1,6 @@
+# node_modules is installed inside the image (and kept in a named volume in
+# dev), never copied from the host.
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo

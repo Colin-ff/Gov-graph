@@ -1,0 +1,12 @@
+{
+  "member_types": [
+    "Chair",
+    "Secretariat",
+    "Member",
+    "Treasurer",
+    "Observer",
+    "Primary Contact",
+    "Consultant",
+    "External Advisor"
+  ]
+}

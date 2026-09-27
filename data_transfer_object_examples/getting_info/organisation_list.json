@@ -1,0 +1,25 @@
+{
+  "organisations": [
+    {
+      "uuid": "7c4a8d09-ca37-4e2b-9f3d-1a2b3c4d5e6f",
+      "group_name": "UNSW Audit Committee",
+      "chair": "Abrik Bay",
+      "secretariat": "Sharica Blue",
+      "status": "active"
+    },
+    {
+      "uuid": "b3d7f1a9-5c28-4e6b-9a1d-3f7c2b8e4d60",
+      "group_name": "Research Ethics Committee",
+      "chair": "Priya Nair",
+      "secretariat": "Marcus Webb",
+      "status": "active"
+    },
+    {
+      "uuid": "8f2c5a17-9d34-4b1e-a7c6-2e9f5b3d1a48",
+      "group_name": "Work Health & Safety Committee",
+      "chair": "Helen Zhou",
+      "secretariat": "Daniel Osei",
+      "status": "active"
+    }
+  ]
+}

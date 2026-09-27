@@ -1,0 +1,95 @@
+{
+  "group_name": "Audit Working Group",
+  "entity_type": "Working Group",
+  "purpose": "Review the effectiveness of internal audit recommendations and track their implementation across faculties; report quarterly to the UNSW Audit Committee on outstanding remediation items.",
+  "responsibilities": "Maintain the audit action register; follow up with control owners on overdue items; prepare summary papers for the parent committee; and escalate unresolved high-risk findings to the Chief Audit Executive.",
+  "members": [
+    {
+      "uuid": "1f6b9d2c-4a7e-4b3f-9c8d-2e5a1f7b3c6d",
+      "first_name": "Ashley",
+      "last_name": "Clay",
+      "gender": "female",
+      "email": "a.clay2@unsw.edu.au",
+      "phone": "0438 902 715",
+      "zID": "z5298471",
+      "roles": [
+        "Member",
+        "Treasurer"
+      ],
+      "is_student": false,
+      "is_faculty": true,
+      "is_external": false
+    },
+    {
+      "uuid": "6d2e8b4a-9c1f-4e7a-b3d5-8f2a6c4e1b9d",
+      "first_name": "Alex",
+      "last_name": "Li",
+      "gender": "male",
+      "email": "a.li4@unsw.edu.au",
+      "phone": "0451 326 880",
+      "zID": "z5347016",
+      "roles": [
+        "Secretariat"
+      ],
+      "is_student": true,
+      "is_faculty": false,
+      "is_external": false
+    },
+    {
+      "uuid": "f7b2c9e4-3d18-4a6c-b9e2-5c7a1f3d8b60",
+      "first_name": "Grace",
+      "last_name": "Tan",
+      "gender": "other",
+      "email": "grace.tan@deloitte.com.au",
+      "phone": "0407 213 558",
+      "zID": null,
+      "roles": [
+        "Consultant"
+      ],
+      "is_student": false,
+      "is_faculty": false,
+      "is_external": true
+    },
+    {
+      "uuid": null,
+      "first_name": "Owen",
+      "last_name": "Hart",
+      "gender": "male",
+      "email": "owen.hart@kpmg.com.au",
+      "phone": "0419 884 027",
+      "zID": null,
+      "roles": [
+        "External Advisor"
+      ],
+      "is_student": false,
+      "is_faculty": false,
+      "is_external": true
+    }
+  ],
+  "relations": [
+    {
+      "group_uuid": "7c4a8d09-ca37-4e2b-9f3d-1a2b3c4d5e6f",
+      "existing_group": true,
+      "note": "Reports to the UNSW Audit Committee as its parent governance body."
+    },
+    {
+      "group_name": "Data Governance Steering Group",
+      "existing_group": false,
+      "note": "Not registered yet; escalates data-related audit findings to it."
+    }
+  ],
+  "meeting_frequency_per_year": 6,
+  "meeting_duration_hour": 2,
+  "reference_links": [
+    {
+      "title": "ToR",
+      "url": "https://www.unsw.edu.au/governance/audit-working-group/terms-of-reference"
+    },
+    {
+      "title": "Meeting Minutes (RAMS)",
+      "url": "https://rams.unsw.edu.au/audit-working-group/minutes"
+    }
+  ],
+  "start_date": "2024-06-01",
+  "review_date": "2026-06-01"
+}

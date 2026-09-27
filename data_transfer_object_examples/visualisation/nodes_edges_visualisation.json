@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "uuid": "7c4a8d09-ca37-4e2b-9f3d-1a2b3c4d5e6f",
+      "group_name": "UNSW Audit Committee",
+      "status": "active",
+      "entity_type": "Committee"
+    },
+    {
+      "uuid": "2d9f6b18-3e4a-4c5b-8a7d-9e0f1a2b3c4d",
+      "group_name": "Audit Working Group",
+      "status": "active",
+      "entity_type": "Working Group"
+    },
+    {
+      "uuid": "5e1c7a23-8b9d-4f6e-a2c3-d4e5f6a7b8c9",
+      "group_name": "Corruption Working Group",
+      "status": "proposed",
+      "entity_type": "Working Group"
+    }
+  ],
+  "relations": [
+    {
+      "source_uuid": "2d9f6b18-3e4a-4c5b-8a7d-9e0f1a2b3c4d",
+      "target_uuid": "7c4a8d09-ca37-4e2b-9f3d-1a2b3c4d5e6f",
+      "relation_type": "Report to",
+      "directed": true
+    },
+    {
+      "source_uuid": "5e1c7a23-8b9d-4f6e-a2c3-d4e5f6a7b8c9",
+      "target_uuid": "7c4a8d09-ca37-4e2b-9f3d-1a2b3c4d5e6f",
+      "relation_type": "Report to",
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "uuid": "7c4a8d09-ca37-4e2b-9f3d-1a2b3c4d5e6f",
+  "group_name": "UNSW Audit Committee",
+  "entity_type": "Committee",
+  "status": "active",
+  "purpose": "\u2022 overseeing financial reporting;\n\u2022 assessing internal controls, including fraud control by a process of reporting and\ndialogue with management, internal and external auditors; and\n\u2022 evaluating the audit process;",
+  "responsibilities": "resolve any disagreements between management and the external auditor regarding financial reporting;\n\u2022 approve proposed auditing fees for external auditors;\n\u2022 seek independent, professional advice to assist it to carry out its responsibilities;\n\u2022 seek any information it requires from employees, all of whom are expected to cooperate\nwith the committee's requests, or external parties; and\n\u2022 meet with company officers, external auditors, or outside counsel, as necessary.",
+  "meeting_frequency_per_year": 12,
+  "meeting_duration_hour": 1,
+  "membership": [
+    {
+      "uuid": "e2a1f9c4-6b3d-4a8e-9c2f-7d1b5e3a8c6f",
+      "first_name": "Abrik",
+      "last_name": "Bay",
+      "roles": [
+        "Chair"
+      ]
+    },
+    {
+      "uuid": "c8f3a2d7-1e9b-4c5a-8f6d-3b2e7a1c9d4f",
+      "first_name": "Sharica",
+      "last_name": "Blue",
+      "roles": [
+        "Secretariat"
+      ]
+    },
+    {
+      "uuid": "1f6b9d2c-4a7e-4b3f-9c8d-2e5a1f7b3c6d",
+      "first_name": "Ashley",
+      "last_name": "Clay",
+      "roles": [
+        "Member"
+      ]
+    }
+  ],
+  "relations": [
+    {
+      "uuid": "2d9f6b18-3e4a-4c5b-8a7d-9e0f1a2b3c4d",
+      "group_name": "Audit Working Group",
+      "relation_type": "Report to",
+      "direction": "reported_to_by"
+    },
+    {
+      "uuid": "5e1c7a23-8b9d-4f6e-a2c3-d4e5f6a7b8c9",
+      "group_name": "Corruption Working Group",
+      "relation_type": "Report to",
+      "direction": "reported_to_by"
+    }
+  ],
+  "reference_links": [
+    {
+      "title": "ToR",
+      "url": "https://www.unsw.edu.au/governance/audit-committee/terms-of-reference"
+    },
+    {
+      "title": "Meeting Minutes (RAMS)",
+      "url": "https://rams.unsw.edu.au/audit-committee/minutes"
+    }
+  ],
+  "start_date": "2022-03-01",
+  "review_date": "2025-03-01",
+  "created_timestamp": "2022-02-14T09:24:11Z",
+  "last_modified_timestamp": "2024-11-08T15:42:53Z",
+  "can_view_meetings": true
+}

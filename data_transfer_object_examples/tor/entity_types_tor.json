@@ -1,0 +1,9 @@
+{
+  "entity_types": [
+    "Committee",
+    "Board",
+    "Working Group",
+    "Advisory Panel",
+    "Subcommittee"
+  ]
+}

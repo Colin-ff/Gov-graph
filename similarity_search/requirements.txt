@@ -1,0 +1,7 @@
+# Similarity-search spike dependencies.
+# Install into an isolated venv:  python -m venv .venv && .venv/Scripts/pip install -r requirements.txt
+sentence-transformers==3.0.1   # all-mpnet-base-v2 embeddings
+numpy>=1.24
+matplotlib>=3.7                # cosine-similarity heatmap
+google-genai==2.12.1            # LLM verification stage (Gemini API)
+python-dotenv>=1.0              # loads GEMINI_API_KEY from the repo-root .env
